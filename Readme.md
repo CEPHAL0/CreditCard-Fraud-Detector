@@ -4,7 +4,7 @@ This jupyter notebook uses the data available from kaggle.
 ***Due to the github limit of 100MB working copy of dataset couldnot be uploaded into the repository. <br> Make sure to download the dataset from the link given below and follow the procedure***
 
 > Dataset Source : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud <br>
-> After downloading the dataset place inside the `Datasets/` folder
+> After downloading the dataset place inside the `Datasets/` folder <br>
 > Rename the file to `creditcard.csv`
 
 Necessary packages:
